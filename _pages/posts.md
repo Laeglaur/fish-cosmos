@@ -1,6 +1,6 @@
 ---
 title: "Posts"
-layout: posts
+layout: default
 permalink: /posts/
 author_profile: true
 ---
