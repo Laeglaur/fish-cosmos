@@ -22,8 +22,6 @@ foo:
 main:
   - title: "Home"
     url: /
-  - title: "Posts"
-    url: /posts/
   - title: "Years"
     url: /year-archive/
   - title: "Categories"
